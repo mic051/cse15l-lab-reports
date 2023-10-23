@@ -1,4 +1,6 @@
-![image](https://github.com/mic051/cse15l-lab-reports/assets/146787706/ce64971f-070f-4ec6-b359-f00b8c9b6a4a)# Lab 2
+# Lab 2
+
+![image](https://github.com/mic051/cse15l-lab-reports/assets/146787706/ce64971f-070f-4ec6-b359-f00b8c9b6a4a)
 
 ## Part 1
 
