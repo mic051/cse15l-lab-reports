@@ -4,9 +4,9 @@
 
 ## Part 1
 
-![Image](Screenshot 2023-10-22 123630.png)
-
 ![Image](Screenshot 2023-10-22 123624.png)
+
+![Image](Screenshot 2023-10-22 123630.png)
 
 ![Image](Screenshot 2023-10-22 122422.png)
 
