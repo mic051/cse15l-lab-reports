@@ -2,9 +2,9 @@
 
 CD No Args
 
-![Image](Screenshot 2023-10-22 100924.png)
+![Image](Screenshot 2023-10-22 194205.png)
 
-The working directory when the command is run is  "/home/lecture1". CD is supposed to be given a path to change to. Since there is no path, the current directory changes to one level above it. The working directory changes from "/home/lecture1" to "/home". The output is not an error since there was no output.
+The working directory when the command is run is  "/home/lecture1". CD is supposed to be given a path to change the working directory to. Since there is no path, the current directory changes to one level above it. The working directory changes from "/home/lecture1" to "/home". The output is not an error since there was no output.
 
 CD Directory Arg
 
