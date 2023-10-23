@@ -39,6 +39,7 @@ The working directory when the command is run is "/home". When given a file, the
 CAT No Args
 
 ![Image](Screenshot 2023-10-22 110154.png)
+
 The working directory when the command is run is "/home". When given no arguments. It prints what is written to STDIN. After typing each message, it reprints it. The output has no errors. The working directory is "/home" before and after the command is run.
 
 CAT Directory Arg
@@ -49,6 +50,6 @@ The working directory when the command is run is "/home". CAT is supposed to pri
 
 CAT File Arg
 
-![Image](Screenshot 2023-10-22 100924.png)
+![Image](Screenshot 2023-10-22 192147.png)
 
 The working directory when the command is run is "/home". "When given a file, it prints the contents of the file. The output has no errors. THe working directory is "/home" before and after the command is run.
