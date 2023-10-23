@@ -8,7 +8,7 @@ The working directory when the command is run is  "/home/lecture1". CD is suppos
 
 CD Directory Arg
 
-![Image](Screenshot 2023-10-22 104440.png)
+![Image](Screenshot 2023-10-22 191042.png)
 
 The working directory when the command is run is "/home". When given a directory, it changes the current working directory to the one passed to it. The output has no errors. The working directory changes from "/home" to "/home/lecture1".
 
