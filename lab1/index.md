@@ -20,7 +20,7 @@ The working directory when the command is run is "/home". When given a file, it 
 
 LS No Args
 
-![Image](Screenshot 2023-10-22 104941.png)
+![Image](Screenshot 2023-10-22 191531.png)
 
 The working directory when the command is run is "/home/lecture1". When given no arguments, the command prints the contents of the current working directory. The output has no errors. The working directory is "/home/lecture1" before and after the command is run.
 
