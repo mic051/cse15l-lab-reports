@@ -26,7 +26,7 @@ The working directory when the command is run is "/home/lecture1". When given no
 
 LS Directory Args
 
-![Image](Screenshot 2023-10-22 105213.png)
+![Image](Screenshot 2023-10-22 191834.png)
 
 The working directory when the command is run is "/home". When given a directory, the command prints the contents of the directory passed to it. The output has no errors. The working directory is "/home" before and after the command is run.
 
