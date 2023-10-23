@@ -16,8 +16,6 @@ Within `main()`, `Server.start(port, new Handler())` is called. Port is the port
 
 ![image](https://github.com/mic051/cse15l-lab-reports/assets/146787706/ce64971f-070f-4ec6-b359-f00b8c9b6a4a)
 
-![Image](Screenshot 2023-10-22 124526.png)
-
 ![Image](Screenshot 2023-10-22 131902.png)
 
 ## Part 3
