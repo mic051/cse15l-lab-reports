@@ -18,7 +18,7 @@
   }
 ```
 
-[!Image][Screenshot 2023-11-05 041144.png]
+[!Image](Screenshot 2023-11-05 041144.png)
 
 ### Non-Failure Inducing Input:
 
@@ -36,7 +36,7 @@
     }
 ```
 
-[!Image][Screenshot 2023-11-05 041411.png]
+[!Image](Screenshot 2023-11-05 041411.png)
 
 ### Bug (Before and After Fix)
 
