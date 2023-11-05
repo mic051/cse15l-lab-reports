@@ -1,8 +1,8 @@
 # Lab 3
 
-# Part 1
+## Part 1
 
-## Failure Inducing Input:
+### Failure Inducing Input:
 
 ```
   @Test 
@@ -20,7 +20,7 @@
 
 [!Image][Screenshot 2023-11-05 041144.png]
 
-## Non-Failure Inducing Input:
+### Non-Failure Inducing Input:
 
 ```
     @Test
@@ -38,10 +38,10 @@
 
 [!Image][Screenshot 2023-11-05 041411.png]
 
-## Bug (Before and After Fix)
+### Bug (Before and After Fix)
 
 ```
-static void reverseInPlace(int[] arr) {
+static void reverseInPlaceBad(int[] arr) {
 
     for(int i = 0; i < arr.length; i += 1) {
 
@@ -72,6 +72,8 @@ static void reverseInPlace(int[] arr) {
   }
 ```
 
-The bug within the code is that it doesn't swap the elements. The code only assigns the value of the left with the value on the right. This works only works for the first half of the array. For the second half of the array, it gains the values right, which has already been reassigned to the second half, resulting in no change for the second half. The fix changes how long the `for` loop runs and introduces an `int`. The `int` holds the value of the left so it doesn't get lost after getting reassigned. After the beginning part of the array is assigned, the latter part is given the value of the `int`, which is the value from the first half. Since both ends are being swapped at the same time, the `for` loop iterates for half of the length.
+The bug within the code is that it doesn't swap the elements. The code only assigns the value on the left with the value on the right. This works only works for the first half of the array. For the second half of the array, it gains the values right, which has already been reassigned to the second half, resulting in no change for the second half. The fix changes how long the `for` loop runs and introduces an `int`. The `int` holds the value of the left so it doesn't get lost after getting reassigned. After the beginning part of the array is assigned, the latter part is given the value of the `int`, which is the value from the first half. Since both ends are being swapped at the same time, the `for` loop iterates for half of the length.
 
-new
+## Part 2
+
+
