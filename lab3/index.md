@@ -75,7 +75,9 @@ static void reverseInPlaceBad(int[] arr) {
 The bug within the code is that it doesn't swap the elements. The code only assigns the value on the left with the value on the right. This works only works for the first half of the array. For the second half of the array, it gains the values right, which has already been reassigned to the second half, resulting in no change for the second half. The fix changes how long the `for` loop runs and introduces an `int`. The `int` holds the value of the left so it doesn't get lost after getting reassigned. After the beginning part of the array is assigned, the latter part is given the value of the `int`, which is the value from the first half. Since both ends are being swapped at the same time, the `for` loop iterates for half of the length.
 
 ## Part 2
-Source - https://phoenixnap.com/kb/less-command-in-linux
+Source For All Flags - https://phoenixnap.com/kb/less-command-in-linux
+
+### -m
 
 `less -m chapter-1.txt`
 
@@ -127,7 +129,9 @@ chapter-1.txt 1%
 chapter-2.txt 2%
 ```
 
-`-m` shows how far you are in the file relative to the entire size as a percentage at the bottom. This is useful for seeing how large a file is (relatively) and how far in it you are.
+`-m` shows how far you are in the file relative to the entire size as a percentage at the bottom. This is useful for seeing how large a file is (relatively) and how far in it you are. I used the source mentioned at the beginning.
+
+### -N
 
 `less -N chapter-1.txt`
 
@@ -189,7 +193,9 @@ chapter-1.txt
 chapter-2.txt
 ```
 
-`-N` is used to show the line numbers of the file. This is useful as it helps you indicate where you are in the file.
+`-N` is used to show the line numbers of the file. This is useful as it helps you indicate where you are in the file. I used the source mentioned at the beginning.
+
+### -X
 
 ```
 panpharaconic@LAPTOP-APOM855S MINGW64 ~/Documents/GitHub/docsearch/technical/911report (main)
@@ -249,7 +255,9 @@ $ less -X chapter-2.txt
 panpharaconic@LAPTOP-APOM855S MINGW64 ~/Documents/GitHub/docsearch/technical/911report (main)
 ```
 
-`-X` is used to disable the clearing less' contents from the terminal after closing. This is useful if you want to view the contents as the same time as the terminal or pipe the output into a file.
+`-X` is used to disable the clearing less' contents from the terminal after closing. This is useful if you want to view the contents as the same time as the terminal or pipe the output into a file. I used the source mentioned at the beginning.
+
+### -M
 
 `$ less -M chapter-1.txt`
 
@@ -301,4 +309,4 @@ chapter-1.txt lines 1-19/731 1%
 chapter-2.txt lines 2-26/948 2%
 ```
 
-`-M` is just like `-m` except it will also show the line numbers shown on screen. This would be useful for someone who doesn't want to use `-N` and wants the same information as `-m` but with line numbers.
+`-M` is just like `-m` except it will also show the line numbers shown on screen. This would be useful for someone who doesn't want to use `-N` and wants the same information as `-m` but with line numbers. I used the source mentioned at the beginning.
