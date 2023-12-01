@@ -20,4 +20,4 @@ Student - Hello. I traced the function and saw the issue. It looks like I'm swap
 
 ![Image](Screenshot 2023-12-01 132940.png)
 
-![Image](Screenshot 2023-12-01 133327.png)
+![Image](Screenshot 2023-12-01 133903.png)
