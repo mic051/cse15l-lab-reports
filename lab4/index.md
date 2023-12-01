@@ -10,7 +10,7 @@ To log into my ieng6 account (cs15lfa23fr@ieng6.ucsd.edu), I ran `ssh cs15lfa23f
 
 ![Image](Screenshot 2023-11-17 214916.png)
 
-To clone my fork, I grabbed the ssh link from Github (git@github.com:mic051/lab7.git) and ran `git clone git@github.com:mic051/lab7.git`
+To clone my fork, I grabbed the ssh link from Github (git@github.com:mic051/lab7.git) and ran `git clone git@github.com:mic051/lab7.git`. I did copy the link from the course page and pasted it in with <ctrl> v.
 
 ## Step 6
 
