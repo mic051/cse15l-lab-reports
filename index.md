@@ -5,3 +5,5 @@
 [Lab Report 3](lab3/index.md)
 
 [Lab Report 4](lab4/index.md)
+
+[Lab Report 5](lab5/index.md)
