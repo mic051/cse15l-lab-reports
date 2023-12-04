@@ -2,7 +2,7 @@
 
 ## Part 1
 
-Student - Hello. I tried writing a reversing function for an array but the reversing doesn't seem to work. What is the issue? Code, output, and file structure below.
+Student - Hello. I tried writing a reversing function for an array but the reversing doesn't seem to work. Is the swap even working or is it somehow being undone? Code, output, and file structure below.
 
 ![Image](Screenshot 2023-12-01 131033.png)
 
@@ -10,7 +10,7 @@ Student - Hello. I tried writing a reversing function for an array but the rever
 
 ![Image](Screenshot 2023-12-01 134954.png)
 
-![Image](Screenshot 2023-12-01 135405.png)
+![Image](Screenshot 2023-12-03 184738.png)
 
 TA - Hello. You almost got the reversing function working. I would recommend tracing the entire function out from beginning to end.
 
