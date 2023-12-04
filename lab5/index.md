@@ -26,4 +26,4 @@ Student - Hello. I traced the function and saw the issue. It looks like I'm swap
 
 ## Part 2
 
-One very interesting thing I learned this half of the class was about unit testing. I was always wondering how programmers tested their code and usually assumed they manually plugged in random values into their functions to see if their code would break. It makes a lot of sense that there are libraries that test values before and after they interact with the function.
+One very interesting thing I learned this half of the class was about unit testing. I was always wondered how programmers tested their code and usually assumed they manually plugged in random values into their functions to see if their code would break. It makes a lot of sense that there are libraries that test values before and after they interact with the function.
